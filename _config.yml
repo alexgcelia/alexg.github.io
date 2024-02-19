@@ -21,7 +21,7 @@
 title: Página Github de Alex G
 email: alexg@iaw.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog para el módulo de IAW I.E.S.Celia Viñas de Alex G.
+  Blog para el módulo de IAW I.E.S. Celia Viñas de Alex G.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aalexx_63
