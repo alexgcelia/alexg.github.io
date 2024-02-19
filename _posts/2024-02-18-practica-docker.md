@@ -7,4 +7,4 @@ categories: docker iaw
 
 Practica sobre Docker
 
-![]({{ site.url }}images/2024-02-18-practica-docker/horizontal-logo-monochromatic-white.png)
+![]({{ site.url }}/images/2024-02-18-practica-docker/horizontal-logo-monochromatic-white.png)
