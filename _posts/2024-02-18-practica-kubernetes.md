@@ -6,3 +6,5 @@ categories: kubernetes iaw
 ---
 
 Practica sobre Kubernetes
+
+![]({{ site.url }}/images/2024-02-18-practica-kubernetes/2560px-Kubernetes_logo.svg.png)
