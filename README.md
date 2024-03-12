@@ -1,7 +1,9 @@
 # alexg.github.io
 Este repositorio es para la practica 6.1 Jekyll del módulo IAW
 
-## Creamos un Github Codespaces y en el editaremos lo pedido en https://josejuansanchez.org/iaw/practica-jekyll/index.html
+## Creamos un Github Codespaces
+#### Editaremos lo pedido en https://josejuansanchez.org/iaw/practica-jekyll/index.html
+
 ### Podremos hacer uso de estos comandos
 #### jekyll new: Este comando nos permite crear la estructura de directorios y los archivos necesarios de un nuevo proyecto Jekyll.
 ```
